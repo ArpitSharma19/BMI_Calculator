@@ -1,27 +1,40 @@
 # BMI Calculator (React)
 
-A simple and responsive **BMI (Body Mass Index) Calculator** built with **React**.
-This app allows users to enter their weight and height to calculate their BMI and get a health category message.
+A simple, responsive **BMI (Body Mass Index) Calculator** built using **React**.
+This web app allows users to enter their weight and height, calculate their BMI, and view a health category based on the result.
+
+---
+
+## Live Demo
+
+**Website:**
+[https://bmi-calculator-six-delta.vercel.app/](https://bmi-calculator-six-delta.vercel.app/)
+
+---
+
+## GitHub Repository
+
+[https://github.com/ArpitSharma19/BMI_Calculator](https://github.com/ArpitSharma19/BMI_Calculator)
 
 ---
 
 ## Features
 
-* Calculate BMI based on weight (kg) and height (cm)
-* Displays BMI value with health status
-* Input validation
-* Reset button to clear values
-* Responsive, modern UI
-* Clean and simple React functional component
+* Calculate BMI using weight (kg) and height (cm)
+* Instant result with health status
+* Input validation for correct values
+* Reset button to clear inputs
+* Clean, modern, responsive UI
+* Built with React functional components and hooks
 
 ---
 
 ## Technologies Used
 
-* React (Functional Components + Hooks)
-* JavaScript (ES6)
-* CSS3 (Responsive design with media queries)
-* Google Fonts (Inter)
+* **React** (Functional Components + Hooks)
+* **JavaScript (ES6)**
+* **CSS3** (Responsive design with media queries)
+* **Google Fonts** (Inter)
 
 ---
 
@@ -41,13 +54,13 @@ This app allows users to enter their weight and height to calculate their BMI an
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/ArpitSharma19/BMI_Calculator.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd bmi-calculator
+cd BMI_Calculator
 ```
 
 ### 3. Install dependencies
@@ -62,6 +75,7 @@ npm install
 npm start
 ```
 
+---
 
 ## Project Structure
 
@@ -86,11 +100,11 @@ src/
 BMI = weight / (height in meters)^2
 ```
 
-5. Displays BMI value and health message.
+5. Displays BMI value along with a health category message.
 
 ---
 
 ## Author
 
-Arpit Sharma
-GitHub: [https://github.com/your-username]
+**Arpit Sharma**
+GitHub: [https://github.com/ArpitSharma19](https://github.com/ArpitSharma19)
